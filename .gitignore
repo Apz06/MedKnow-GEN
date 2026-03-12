@@ -1,0 +1,57 @@
+# ─── Python ──────────────────────────────────────────────────────────────────
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ─── Environment & Secrets ───────────────────────────────────────────────────
+.env
+.env.*
+*.key
+*.pem
+
+# ─── Large Model & Data Files (use HuggingFace Hub or Google Drive instead) ──
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+*.pkl
+*.h5
+data/raw/
+data/processed/
+models/
+
+# ─── Dataset Files ───────────────────────────────────────────────────────────
+*.csv
+*.tsv
+*.json
+*.jsonl
+*.parquet
+
+# ─── Jupyter ─────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_meta
+
+# ─── Neo4j Local DB ──────────────────────────────────────────────────────────
+neo4j_data/
+graph.db/
+
+# ─── OS ──────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── VS Code ─────────────────────────────────────────────────────────────────
+.vscode/
+*.code-workspace
+
+# ─── Logs & Outputs ──────────────────────────────────────────────────────────
+logs/
+*.log
+outputs/
+results/
