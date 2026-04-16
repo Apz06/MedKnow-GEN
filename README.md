@@ -1,7 +1,7 @@
 # 🧬 MedKnow-GEN
 ### A Generative Agent for Dynamic Cancer Knowledge Graph Construction
 
-> **Rajalakshmi Engineering College** | Dept. of AI & ML | AI19711 – Phase I Project  
+> **Rajalakshmi Engineering College** | Dept. of AI & ML | AI19811 – Phase II Project  
 > **Team:** V Poonguzhali (221501512) · M Aparna (221501901)  
 > **Mentor:** Dr. S Poonkuzhali
 
